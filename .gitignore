@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+.env
+.env.production
+__pycache__/
+*.pyc
+*.sqlite3
+backend/staticfiles/
+backend/media/
+frontend/dist/
+.tmp/
+*.log
+*.pid
+.tmp/ *.log *.pid

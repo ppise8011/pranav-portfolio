@@ -1,0 +1,4 @@
+GSAP 3.13.0 and ScrollTrigger
+Copyright 2025 GreenSock, Inc.
+Distributed under the GSAP standard license: https://gsap.com/standard-license/
+See the GSAP package README and https://gsap.com for the full license terms.
